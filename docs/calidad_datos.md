@@ -14,4 +14,4 @@ Cada fila es única por la combinación:
 
 ## Verificación
 Durante la generación del dataset se controló que ninguna combinación repetida fuera escrita en el CSV.
-Además, la base SQLite refuerza esta validación con una restricción UNIQUE (finca_id, semana).
+Además, la base SQLite refuerza esta validación con una restricción UNIQUE (finca_id, semana)

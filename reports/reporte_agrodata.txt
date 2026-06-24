@@ -1,0 +1,49 @@
+AGRODATA MINI PRO - REPORTE EJECUTIVO
+=======================================================
+Registros analizados: 520
+Leche total: 1092392 litros
+Maíz total: 137167 kg
+Sorgo total: 99164 kg
+Costo total de alimento: $656.004.354
+Promedio de lluvia: 88.62 mm
+Promedio de temperatura: 20.87 °C
+Clasificación global: Alta
+
+TOP 5 FINCAS
+-------------------------------------------------------
+1. Bosque Alto (Yolombó) | Leche: 152900 L | Clasificación: Alta
+2. Loma Clara (Angostura) | Leche: 137772 L | Clasificación: Alta
+3. Buenavista (Gómez Plata) | Leche: 131404 L | Clasificación: Alta
+4. Villa Norte (Carolina) | Leche: 122830 L | Clasificación: Alta
+5. Altos del Río (Belmira) | Leche: 113957 L | Clasificación: Alta
+
+TOP 5 MUNICIPIOS
+-------------------------------------------------------
+1. Yolombó | Leche: 152900 L | Costo: $87.498.401
+2. Angostura | Leche: 137772 L | Costo: $85.175.890
+3. Gómez Plata | Leche: 131404 L | Costo: $81.002.877
+4. Carolina | Leche: 122830 L | Costo: $73.634.118
+5. Belmira | Leche: 113957 L | Costo: $67.058.106
+
+ALERTAS PRINCIPALES
+-------------------------------------------------------
+Semana 1 - El Progreso: revisar novedad sanitaria (observación).
+Semana 1 - Monte Verde: lluvia alta (135.8 mm).
+Semana 1 - La Pradera: lluvia alta (136.8 mm).
+Semana 1 - La Pradera: revisar novedad sanitaria (observación).
+Semana 1 - Altos del Río: revisar novedad sanitaria (seguimiento veterinario).
+Semana 1 - Buenavista: lluvia alta (136.2 mm).
+Semana 2 - El Progreso: lluvia alta (129.0 mm).
+Semana 2 - Santa Lucía: revisar novedad sanitaria (observación).
+Semana 2 - Altos del Río: revisar novedad sanitaria (seguimiento veterinario).
+Semana 2 - Buenavista: revisar novedad sanitaria (observación).
+Semana 3 - La Esperanza: producción de leche por debajo del umbral esperado.
+Semana 3 - La Esperanza: lluvia alta (140.2 mm).
+Semana 3 - El Progreso: lluvia alta (140.6 mm).
+Semana 3 - Santa Lucía: lluvia alta (143.3 mm).
+Semana 3 - La Pradera: lluvia alta (136.8 mm).
+Semana 3 - Altos del Río: lluvia alta (136.9 mm).
+Semana 3 - Villa Norte: lluvia alta (135.7 mm).
+Semana 3 - Buenavista: lluvia alta (130.5 mm).
+Semana 4 - La Esperanza: lluvia alta (132.5 mm).
+Semana 4 - El Progreso: lluvia alta (139.5 mm).

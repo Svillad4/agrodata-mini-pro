@@ -1,0 +1,11 @@
+posicion,finca,municipio,enfoque_productivo,total_leche,promedio_leche,total_maiz,total_sorgo,total_costo,clasificacion
+1,Bosque Alto,Yolombó,Leche + caña forrajera,152900,2940.38,18245,14065,87498401,Alta
+2,Loma Clara,Angostura,Leche + pastos,137772,2649.46,17407,13129,85175890,Alta
+3,Buenavista,Gómez Plata,Leche + maíz,131404,2527.0,16254,12270,81002877,Alta
+4,Villa Norte,Carolina,Leche + sorgo,122830,2362.12,15230,11281,73634118,Alta
+5,Altos del Río,Belmira,Leche + pastos,113957,2191.48,14467,10361,67058106,Alta
+6,La Pradera,Donmatías,Leche + maíz,103300,1986.54,13033,9463,61957823,Alta
+7,Monte Verde,Santa Rosa,Leche + papa forrajera,95066,1828.19,12091,8593,56173312,Media
+8,Santa Lucía,Yarumal,Leche + maíz,88097,1694.17,11261,7650,53165460,Media
+9,El Progreso,Entrerríos,Leche + sorgo,77743,1495.06,10325,6586,48253824,Baja
+10,La Esperanza,San Pedro,Leche + maíz,69323,1333.13,8854,5766,42084543,Baja
